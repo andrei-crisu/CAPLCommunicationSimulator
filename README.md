@@ -5,36 +5,36 @@
 
 
 ## The CAN FRAME
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/c675f778-b214-4356-a022-e618b42f8afd)
+![image](other_resources/can_frame.png)
 <br>
 
 ## INPUT DATA
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/b64b66eb-cd94-4447-942d-a61d1c837ecb)
+![image](other_resources/input_data.png)
 <br>
 
 
 ## OUTPUT DATA
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/e54b9516-b933-4173-b775-c1d425fdbf27)
+![image](other_resources/output_data.png)
 <br>
 
 ## THE RAW DATA
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/2b8d0d5b-98ae-42f7-8b82-493d031a620b)
+![image](other_resources/raw_data.png)
 <br>
 
 ## CONFIGURATION
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/b6ef5aba-99fe-4af5-9c51-723795e590de)
+![image](other_resources/configuration.png)
 <br>
 
 
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/d78e8f56-9493-4fb1-bd48-f7c2e9a8af90)
+![image](other_resources/configuration1.png)
 <br><br>
 
-# THE OUTPUT DATA ( generated code)
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/1d41b46c-b665-4921-9a29-6852ac2dd0dc)
+# THE OUTPUT DATA (generated code)
+![image](other_resources/output_data_generated.png)
 <br><br>
 
 # VALIDATION OF THE GENERATED CODE (CANalyzer simulation)
-![image](https://github.com/andrei-crisu/CommunicationSimulator/assets/68897925/cc1ccbe6-d268-4ecc-9efa-bdf0104de548)
+![image](other_resources/code_validation.png)
 
 
 
